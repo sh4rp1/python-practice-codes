@@ -15,7 +15,7 @@ I am following a detailed daily plan focusing on building strong Python fundamen
 | 4 | Dictionaries & Sets — Dict Basics, Set Operations, Key Access, Updating Values |
 | 5 | Conditional Logic — if-else, Nested if, elif ladder, Ternary Operator |
 | 6 | Loops (for, while) — for-loops, while-loops, Nested loops, Loop control (break, continue) |
-| 7 | Functions — Functions with return, arguments, *args, **kwargs |
+| 7 | Functions — Functions with return, arguments, *args, **kwargs, Recursion |
 | 8 | List Comprehensions — Basic List Comprehensions, Nested Comprehensions |
 | 9 | File Handling — Reading/Writing text files, CSV basics, JSON basics |
 | 10 | Exception Handling — try-except blocks, Multiple exceptions, finally clause |
